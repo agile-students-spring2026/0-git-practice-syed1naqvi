@@ -8,4 +8,6 @@ This article is about an experiment in which 16 software developers with an aver
 
 This makes me wonder about the future of AI code generation. Was their time lost due to a matter of how they wrote their prompt? Will writing very accurate prompts be considered as an important skillset in the future? Does AI have a diminishing return overtime due to human errors or logistics? 
 
+**Edit by Mohamed-Mudawi** I agree, this article shows that how helpful AI is depends a lot on how well developers use and clean up what it gives them.
+
 \- Syed Naqvi
