@@ -8,4 +8,8 @@ This article is about an experiment in which 16 software developers with an aver
 
 This makes me wonder about the future of AI code generation. Was their time lost due to a matter of how they wrote their prompt? Will writing very accurate prompts be considered as an important skillset in the future? Does AI have a diminishing return overtime due to human errors or logistics? 
 
-\- Syed Naqvi
+\- Syed Naqvi 
+
+Comment from Layan:
+ What interested me most was that the AI didn't make experienced developers faster; instead, it made them slower because they had to spend time asking, waiting, and then cleaning up or rewriting output that didn't fit the project's needs. It's an excellent reminder that "AI = productivity" doesn't always work. If you already have a lot going on, an assistant can actually add to your work.
+
